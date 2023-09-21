@@ -28,8 +28,6 @@ I'm having fun learning C#
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadcloudisgay&show_icons=true&theme=dark&line_height=27" alt="astral's stats"/>
 </a>
 
-<img align="center" src="snake.svg" />
-
 <a href="https://github.com/sadcloudisgay/Nmap-TCP-ICMP-pinger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=Nmap-TCP-ICMP-pinger&theme=dark" />
 </a>
