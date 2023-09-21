@@ -2,15 +2,15 @@
 
 I'm having fun learning C#
 
-<img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png](https://cdn.discordapp.com/attachments/1154381453795270726/1154547071714599022/pfp.png"/>
+<img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
 
 - Learning C#.
 - Into game-hacking, but I'll start all that stuff later.
 - My girlfriend helps me learn :D
 <details>
   <summary> - My Contacts:</summary>
-  <a href="[https://www.youtube.com/@KurxxedLover](https://www.youtube.com/@KurxxedLover)">Youtube</a><br>
-  <a href="[https://discord.com/users/769224795727593523](https://discord.com/users/769224795727593523)">Discord</a><br>
+  <a href="[https://www.youtube.com/@KurxxedLover]">Youtube</a><br>
+  <a href="[https://discord.com/users/769224795727593523]">Discord</a><br>
  
 </details>
 
