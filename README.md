@@ -1,5 +1,6 @@
-## Hello, I'm Zebratic 👋
-I do all kinds of stuff that has something to do with programming.
+## haiii :3, I'm astral
+
+I'm having fun learning C#
 
 <img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png](https://cdn.discordapp.com/attachments/1154381453795270726/1154547071714599022/pfp.png"/>
 
@@ -8,8 +9,8 @@ I do all kinds of stuff that has something to do with programming.
 - My girlfriend helps me learn :D
 <details>
   <summary> - My Contacts:</summary>
-  <a href="https://www.youtube.com/@KurxxedLover">Youtube</a><br>
-  <a href="https://discord.com/users/769224795727593523">Discord</a><br>
+  <a href="[https://www.youtube.com/@KurxxedLover](https://www.youtube.com/@KurxxedLover)">Youtube</a><br>
+  <a href="[https://discord.com/users/769224795727593523](https://discord.com/users/769224795727593523)">Discord</a><br>
  
 </details>
 
