@@ -2,7 +2,7 @@
 
 I'm having fun learning C#
 
-<img src="[https://discord.c99.nl/widget/theme-4/813679495508656158.png]"/>
+<img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
 
 - Learning C#.
 - Into game-hacking, but I'll start all that stuff later.
