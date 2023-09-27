@@ -29,6 +29,10 @@ I'm having fun learning C#
 </a>
 
 <a href="https://github.com/sadcloudisgay/Nmap-TCP-ICMP-pinger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=cs2-server-maker&theme=dark" />
+</a>
+
+<a href="https://github.com/sadcloudisgay/Nmap-TCP-ICMP-pinger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=Nmap-TCP-ICMP-pinger&theme=dark" />
 </a>
 
