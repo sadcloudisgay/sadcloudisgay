@@ -28,7 +28,11 @@ I'm having fun learning C#
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadcloudisgay&show_icons=true&theme=dark&line_height=27" alt="astral's stats"/>
 </a>
 
-<a href="https://github.com/sadcloudisgay/Nmap-TCP-ICMP-pinger">
+<a href="https://github.com/sadcloudisgay/DLL-dumper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=DLL-dumper&theme=dark" />
+</a>
+
+<a href="https://github.com/sadcloudisgay/cs2-server-maker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=cs2-server-maker&theme=dark" />
 </a>
 
