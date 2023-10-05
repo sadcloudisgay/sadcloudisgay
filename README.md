@@ -7,9 +7,6 @@ I'm having fun learning C#
 - Learning C#.
 - Into game-hacking, but I'll start all that stuff later.
 - My girlfriend helps me learn :D
-<details>
- 
-</details>
 
 [![GitHub sadcloudisgay](https://img.shields.io/github/followers/sadcloudisgay?label=follow&style=social)](https://github.com/sadcloudisgay)
 
