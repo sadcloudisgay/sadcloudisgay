@@ -6,9 +6,8 @@ I'm having fun learning C#
 
 - Learning C#.
 - Into game-hacking, but I'll start all that stuff later.
+- I have High Functioning Autism.
 - My girlfriend helps me learn :D
-
-[![GitHub sadcloudisgay](https://img.shields.io/github/followers/sadcloudisgay?label=follow&style=social)](https://github.com/sadcloudisgay)
 
 **Languages and Tools:**  
 
