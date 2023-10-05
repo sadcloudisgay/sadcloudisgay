@@ -8,9 +8,6 @@ I'm having fun learning C#
 - Into game-hacking, but I'll start all that stuff later.
 - My girlfriend helps me learn :D
 <details>
-  <summary> - My Contacts:</summary>
-  <a href="[https://www.youtube.com/@KurxxedLover]">Youtube</a><br>
-  <a href="[https://discord.com/users/769224795727593523]">Discord</a><br>
  
 </details>
 
