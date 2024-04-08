@@ -2,10 +2,8 @@
 
 I'm having fun learning C#
 
-<img src="https://discord.c99.nl/widget/theme-4/769224795727593523.png"/>
-
-- Learning C#.
-- Into game-hacking, but I'll start all that stuff later.
+- Learning C# and getting into AI.
+- Into game-hacking primarily.
 - I have High Functioning Autism.
 - My girlfriend helps me learn :D
 
