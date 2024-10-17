@@ -13,8 +13,8 @@ Learning game hacking
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=Light-Injector&theme=dark" />
 </a>
 
-<a href="https://github.com/sadcloudisgay/DLL-dumper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=DLL-dumper&theme=dark" />
+<a href="https://github.com/sadcloudisgay/assault-cube-external">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=assault-cube-external&theme=dark" />
 </a>
 
 <a href="https://github.com/sadcloudisgay/cs2-server-maker">
