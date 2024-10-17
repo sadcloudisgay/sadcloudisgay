@@ -1,11 +1,8 @@
-## haiii :3, I'm astral
+## haiii :3, I'm lumi
 
-I'm having fun learning C#
+I'm having fun learning C# and C++
 
-- Learning C# and getting into AI.
-- Into game-hacking primarily.
-- I have High Functioning Autism.
-- My girlfriend helps me learn :D
+Learning game hacking
 
 **Languages and Tools:**  
 
