@@ -9,20 +9,12 @@ Learning game hacking
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code> 
 
-<a href="https://github.com/sadcloudisgay/Light-Injector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=Light-Injector&theme=dark" />
+<a href="https://github.com/sadcloudisgay/csgo-external-base">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=csgo-external-base&theme=dark" />
 </a>
 
 <a href="https://github.com/sadcloudisgay/assault-cube-external">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=assault-cube-external&theme=dark" />
-</a>
-
-<a href="https://github.com/sadcloudisgay/cs2-server-maker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=cs2-server-maker&theme=dark" />
-</a>
-
-<a href="https://github.com/sadcloudisgay/Nmap-TCP-ICMP-pinger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadcloudisgay&repo=Nmap-TCP-ICMP-pinger&theme=dark" />
 </a>
 
 <a href="https://github.com/sadcloudisgay">
